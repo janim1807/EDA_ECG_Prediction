@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+docstr-coverage
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
