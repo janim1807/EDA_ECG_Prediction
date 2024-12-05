@@ -89,3 +89,4 @@ target/
 # Models
 models/*
 !models/dummy_file_please_delete.txt
+notebooks/*
